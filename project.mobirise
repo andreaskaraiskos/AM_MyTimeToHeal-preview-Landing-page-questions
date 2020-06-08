@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AM_MyTimeToHeal_questions",
-    "currentPage": "About-Me.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -6572,7 +6572,7 @@
           "alias": false,
           "_styles": {
             "& when not (@fullScreen)": {
-              "padding-top": "(@paddingTop * -50px)",
+              "padding-top": "(@paddingTop * 15px)",
               "padding-bottom": "(@paddingBottom * 15px)"
             },
             "& when (@bg-type = 'color')": {
