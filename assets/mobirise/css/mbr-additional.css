@@ -4865,78 +4865,71 @@ section.lazy-placeholder:after {
 .cid-rmuBN2baRu blockquote {
   color: #767676;
 }
-.cid-rXgWYqxv6Q {
+.cid-s1pYyhC8Or {
   padding-top: 45px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   background-color: #c3b8c7;
 }
-.cid-rXgWYqxv6Q .mbr-section-title {
-  margin: 0;
-  color: #76637e;
+.cid-s1pYyhC8Or .mbr-section-subtitle {
+  color: #3b1d47;
   text-align: center;
 }
-.cid-rXgWYqxv6Q .mbr-section-subtitle {
-  margin-bottom: 2rem;
-  color: #8d97ad;
+.cid-s1pYyhC8Or H2 {
+  color: #76637e;
 }
-.cid-rXgWYqxv6Q .mbr-text {
-  margin: 0;
-  color: #efefef;
+.cid-s1pGz7XqK7 {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #c3b8c7;
 }
-.cid-rXgWYqxv6Q .wrapper {
-  padding: 2rem;
-  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
-  border-radius: .25rem;
-}
-.cid-rXgWYqxv6Q .card1 {
-  background: linear-gradient(45deg, #88758f, #e5dfe7);
-}
-.cid-rXgWYqxv6Q .card2 {
-  background: linear-gradient(45deg, #88758f, #e5dfe7);
-}
-.cid-rXgWYqxv6Q .card3 {
-  background: linear-gradient(45deg, #88758f, #e5dfe7);
-}
-.cid-rXgWYqxv6Q .card4 {
-  background: linear-gradient(45deg, #1dc9cb, #1dc9cb);
-}
-@media (max-width: 991px) {
-  .cid-rXgWYqxv6Q .wrapper {
-    margin-bottom: 5rem;
+@media (min-width: 767px) {
+  .cid-s1pGz7XqK7 .container {
+    padding: 1rem;
   }
 }
-.cid-rXgWYqxv6Q .mbr-card-title {
-  padding-bottom: 1rem;
+.cid-s1pGz7XqK7 .card-box {
+  padding: 0 2rem;
 }
-.cid-rXgWYqxv6Q .card1 > .mbr-text,
-.cid-rXgWYqxv6Q .card1 > .mbr-section-btn {
-  color: #664573;
+.cid-s1pGz7XqK7 .mbr-section-btn {
+  padding-top: 2rem;
 }
-.cid-rXgWYqxv6Q .card2 > .mbr-text,
-.cid-rXgWYqxv6Q .card2 > .mbr-section-btn {
-  color: #664573;
+.cid-s1pGz7XqK7 .card1 {
+  background-image: url("../../../assets/images/sky-no-moon-mtth-duotone-2000x3000.png");
 }
-.cid-rXgWYqxv6Q .card3 > .mbr-text,
-.cid-rXgWYqxv6Q .card3 > .mbr-section-btn {
-  color: #664573;
+.cid-s1pGz7XqK7 .card2 {
+  background-image: url("../../../assets/images/sky-no-moon-mtth-duotone-2000x3000.png");
 }
-.cid-rXgWYqxv6Q .card1 > .mbr-text,
-.cid-rXgWYqxv6Q .card1 > .mbr-section-btn {
-  text-align: center;
-  color: #2b0d38;
+.cid-s1pGz7XqK7 .card3 {
+  background-image: url("../../../assets/images/moon-sky-mtth-duotone-mod-2000x3000.png");
 }
-.cid-rXgWYqxv6Q .card3 > .mbr-text,
-.cid-rXgWYqxv6Q .card3 > .mbr-section-btn {
-  text-align: center;
-  color: #2b0d38;
+.cid-s1pGz7XqK7 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  padding-top: 2rem;
 }
-.cid-rXgWYqxv6Q .card2 > .mbr-text,
-.cid-rXgWYqxv6Q .card2 > .mbr-section-btn {
-  text-align: center;
-  color: #2b0d38;
+.cid-s1pGz7XqK7 p {
+  margin-bottom: 0;
+  padding-top: 1.5rem;
+}
+.cid-s1pGz7XqK7 .card-wrapper {
+  height: 100%;
+  padding: 25rem 2rem 5rem 2rem;
+  background-size: cover;
+}
+.cid-s1pGz7XqK7 .btn {
+  margin: 0!important;
+  padding: 1rem 2rem;
+}
+@media (max-width: 767px) {
+  .cid-s1pGz7XqK7 .card-wrapper {
+    padding: 15rem 1rem 3rem 1rem;
+  }
+}
+.cid-s1pGz7XqK7 .card-title {
+  text-align: left;
 }
 .cid-rkq3UZvPIe {
-  padding-top: 60px;
+  padding-top: 90px;
   padding-bottom: 30px;
   background-color: #ffffff;
   background-image: url("../../../assets/images/mytimetoheal-damask-temp-artboard.svg");
